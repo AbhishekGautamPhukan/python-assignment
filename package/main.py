@@ -31,7 +31,6 @@ elif n==2:
     if m==1:
         r=int(input("Enter value of radius: "))
         print(f"The area of the circle is {area_of_circle(r)}")
-    
     elif m==2:
         l=int(input("Enter value of length: "))
         b=int(input("Enter value of breadth: "))
