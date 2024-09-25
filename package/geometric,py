@@ -5,7 +5,7 @@ def area_of_circle(r):
        print("Radius cannot be negetive")
    return math.pi *r**2
 
-def peri_of_rec(l,b):
+def perimeter_of_rec(l,b):
    if l<0 or b<0:
        print("Length and Breadth cannot be negetive")
    return 2*(l+b)
