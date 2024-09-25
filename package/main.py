@@ -24,7 +24,7 @@ if n==1:
     elif m==4:
         a=int(input("Enter value of a: "))
         b=int(input("Enter value of b: "))
-        print(f"{a} x {b} = {div(a,b)}")
+        print(f"{a} / {b} = {div(a,b)}")
         
     else:
         print("Invalid choice")
