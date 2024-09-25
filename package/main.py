@@ -3,7 +3,6 @@ from geometry import area_of_circle, perimeter_of_rec
 
 print("Choose one:\n 1.Arithmetic operation\n2.Geometric Operation\n")
 n=int(input("Select: "))
-
 if n==1:
     print("Choose operation to perform: \n1.Addition\n2.Subtraction\n3.Multiplication\n4.Division")
     m=int(input())
@@ -11,12 +10,10 @@ if n==1:
         a=int(input("Enter value of a: "))
         b=int(input("Enter value of b: "))
         print(f"{a} + {b} = {add(a,b)}")
-    
     elif m==2:
         a=int(input("Enter value of a: "))
         b=int(input("Enter value of b: "))
         print(f"{a} - {b} = {sub(a,b)}")
-        
     elif m==3:
         a=int(input("Enter value of a: "))
         b=int(input("Enter value of b: "))
@@ -25,7 +22,6 @@ if n==1:
         a=int(input("Enter value of a: "))
         b=int(input("Enter value of b: "))
         print(f"{a} / {b} = {div(a,b)}")
-        
     else:
         print("Invalid choice")
         
