@@ -1,0 +1,4 @@
+file=open("question.txt",'w')
+
+file.write("1. How many letters are there in english alphabet?,A) 24,B) 25,C) 26,D) 27,C\n2. How many hours are there in a day?,A) 48hrs,B) 24hrs,C) 72hrs,D) 12hrs,B\n3. How many days are there in a week?,A) 7,B) 6,C) 5,D) 8,A\n4. How many months are there in a year?,A) 13,B) 14,C) 15,D) 12,D\n5. What is the capital of India?,A) Delhi,B) Assam,C) Gujarat,D) Manipur,A\n6. What is the national fruit of India?,A) Apple,B) Mango,C) Banana,D) Berry,B\n7. Which is known as the largest planet?,A) Earth,B) Mars,C) Mercury,D) Jupiter,D\n8. The gas released by humans is?,A) Carbon-dioxide,B) Oxygen,C) Hydrogen,D) Nitrogen,A\n9. Which part of your body do you use to see?,A) Ears,B) Eyes,C) Nose,D) Tongue,B\n10. How many legs do humans have?,A) 4,B) 5,C) 3,D) 2,D")
+file.close()
