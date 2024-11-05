@@ -1,0 +1,10 @@
+1. How many letters are there in english alphabet?,A) 24,B) 25,C) 26,D) 27,C
+2. How many hours are there in a day?,A) 48hrs,B) 24hrs,C) 72hrs,D) 12hrs,B
+3. How many days are there in a week?,A) 7,B) 6,C) 5,D) 8,A
+4. How many months are there in a year?,A) 13,B) 14,C) 15,D) 12,D
+5. What is the capital of India?,A) Delhi,B) Assam,C) Gujarat,D) Manipur,A
+6. What is the national fruit of India?,A) Apple,B) Mango,C) Banana,D) Berry,B
+7. Which is known as the largest planet?,A) Earth,B) Mars,C) Mercury,D) Jupiter,D
+8. The gas released by humans is?,A) Carbon-dioxide,B) Oxygen,C) Hydrogen,D) Nitrogen,A
+9. Which part of your body do you use to see?,A) Ears,B) Eyes,C) Nose,D) Tongue,B
+10. How many legs do humans have?,A) 4,B) 5,C) 3,D) 2,D
